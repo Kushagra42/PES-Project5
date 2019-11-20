@@ -1,0 +1,10 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+UART.c:24:7:Init_UART0	32	static
+UART.c:94:7:UART0_IRQHandler	8	static
+UART.c:136:7:UART0_Transmit_Poll	16	static
+UART.c:144:9:UART0_Receive_Poll	16	static
+UART.c:175:9:Receive_Data_Interupt	8	static
+UART.c:190:7:Echo	24	static
+UART.c:236:7:Poling_Function	24	static

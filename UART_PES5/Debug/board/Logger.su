@@ -1,0 +1,14 @@
+Logger.c:25:6:Log_Enabled	8	static
+Logger.c:31:6:Log_Disabled	8	static
+Logger.c:42:9:Status	8	static
+Logger.c:100:13:getloglevel	16	static
+Logger.c:112:13:getFunctions	16	static
+Logger.c:142:6:Log_Data	32	static
+Logger.c:178:6:Log_String	32	static
+Logger.c:219:6:Log_Integer	32	static
+Logger.c:257:6:UART_send	16	static
+Logger.c:269:9:UART_receive	16	static
+Logger.c:283:6:UART_send_n	24	static
+Logger.c:297:10:UART_receive_n	24	static
+Logger.c:312:6:Send_String_Poll	32	static
+Logger.c:339:6:Log_Uart_Data	16	static
